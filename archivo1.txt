@@ -1,1 +1,3 @@
-Hola sot Thomas Toro Herrera , esta es mi primera practica den Git,
+Hola , esta es mi primera practica den Git.
+me gusta programar en computador.
+me gusta el Hacking.
